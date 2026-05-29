@@ -3,3 +3,6 @@ output/
 __pycache__/
 *.pyc
 .env
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
