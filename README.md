@@ -25,4 +25,4 @@ pip install -r requirements.txt
 python3 reconcile.py
 
 ## Author
-Teddy
+Anointed-David
